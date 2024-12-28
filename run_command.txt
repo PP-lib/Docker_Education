@@ -1,2 +1,4 @@
 docker build -t simple-python-app .
 docker run --rm simple-python-app
+
+Set-ExecutionPolicy RemoteSigned
